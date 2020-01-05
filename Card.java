@@ -1,10 +1,3 @@
-/*
- * Gabby Chan
- * Ms.Krasteva
- * May 10th 2017
- * Activity 9 code, represents a playing card
- */
-
 /**
  * Card.java
  *
