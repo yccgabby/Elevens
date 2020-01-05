@@ -1,10 +1,3 @@
-/*
- * Gabby Chan
- * Ms.Krasteva
- * May 10th 2017
- * Activity 9 code, represents a shuffled deck of cards.
- */
-
 import java.util.List;
 import java.util.ArrayList;
 
